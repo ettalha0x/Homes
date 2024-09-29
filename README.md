@@ -14,7 +14,9 @@
 - Install the depencies
 
   `npm install` 
-
+- Install json-server
+  
+  `npm install -g json-server`
 - Run the json-server
 
   `json-server --watch db.json`
